@@ -2,9 +2,11 @@
 
 Computer Science Engineering student at **ENSI** (Tunisia), Finance track, working where **machine learning meets finance**: risk scoring, market modelling and explainable AI, shipped as tested, reproducible software rather than notebooks alone.
 
-- 🏆 Laureate of the **FIRST Global Challenge** (1st place, 190+ countries)
-- 🤝 President of **ENSI Junior Entreprise**, a ~60-member student consulting firm
-- 🔭 Interests: quantitative risk, explainable ML, RAG and agentic AI systems
+- 💼 Part-time Data & AI Engineer in fintech (treasury and FX)
+- 🏆 1st place, **FIRST Global Grand Challenge** (2021)
+- 🤝 President of **ENSI Junior Entreprise** (2025–2026), a 79-member student IT consulting association
+- 🔭 Interests: financial risk, explainable ML, hybrid RAG, local LLMs and data streaming
+- 🎯 Seeking an international final-year internship (PFE) in 2027
 
 ## Featured projects
 
